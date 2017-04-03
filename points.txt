@@ -1,0 +1,10 @@
+                             **** POINTS SCHEME ****
+
+IN THE MASTERMIND GAME, WE HAVE MADE A SPECIAL POINTS SCHEME WHICH GIVES YOU POINTS USING THE FORMULA :-
+
+POINTS = (500-tr) + (5000-tm)
+
+where,  tr = no of tries you took
+ and      tm = time taken by you in sec
+
+THIS PROVIDES YOU WITH A BETTER WAY TO COMPARE YOUR PERFORMANCE EACH TIME YOU PLAY....... 

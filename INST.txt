@@ -1,0 +1,11 @@
+                    ******** INSTRUCTIONS ********
+Mastermind is a very simple and fun game. In this game, first the computer chooses a random number, then you get the objective to guess that number. You might be thinking that it is an impossible task!. But I have made the game easier using some rules. After each time you guess, the computer will tell you the number of digits in your guess which are correct but are placed in wrong positions, and also the number of digits in your guess which are correct and also are in correct positions. There are a total of three difficulties namely quick, regular and impossible and these have 4 digits, 5 digits and 6 digits numbers to guess respectively......
+
+For [EASY DIFFICLTY] 
+Eg. Computer chooses 5134, and you guess 5243,  
+NO. OF CORRECT DIGITS BUT IN WRONG PLACES = 2 (i.e. 3 and 4)
+NO. OF CORRECT DIGITS AND IN RIGHT PLACES = 1 (i.e. 5)
+
+(IT IS OBVIOUS THAT THERE IS ONE WRONG DIGIT IN YOUR GUESS i.e. 2)
+
+
